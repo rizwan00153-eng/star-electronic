@@ -471,7 +471,7 @@ section h1 {
   font-weight: 900;
 }
 
-@media only screen and (max-width: 620px){
+@media only screen and (max-width: 992px){
   .title h1{
     font-size: 30px;
   }
@@ -627,7 +627,7 @@ section h1 {
 }
 
 
-@media only screen and (max-width: 620px) {
+@media only screen and (max-width: 992px) {
   .contact-in {
       display: flex;
       flex-direction: column;
@@ -666,7 +666,7 @@ section h1 {
   }
 }
 
-@media only screen and (max-width: 620px) {
+@media only screen and (max-width: 992px) {
 
   .t1 h1 {
     display: none;
